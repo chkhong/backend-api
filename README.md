@@ -76,8 +76,8 @@ Authenticate user and return access `token` if success.
 
 ```json
 {
-  "success": True,
-  "message": '',
+  "success": true,
+  "message": "",
   "data": {
     "token": "xxxxxxxxxxxxxxxxxxxxx"
   }
@@ -92,8 +92,8 @@ Authenticate user and return access `token` if success.
 
 ```json
 {
-  "success": False,
-  "message": 'Error message',
+  "success": false,
+  "message": "Error message",
   "data": []
 }
 ```
@@ -132,8 +132,8 @@ Logout user, deactivate `token`.
 
 ```json
 {
-  "success": True,
-  "message": '',
+  "success": true,
+  "message": "",
   "data": []
 }
 ```
@@ -146,8 +146,8 @@ Logout user, deactivate `token`.
 
 ```json
 {
-  "success": False,
-  "message": 'Error message',
+  "success": false,
+  "message": "Error message",
   "data": []
 }
 ```
@@ -202,8 +202,8 @@ Create a new user
 
 ```json
 {
-  "success": True,
-  "message": '',
+  "success": true,
+  "message": "",
   "data": []
 }
 ```
@@ -216,8 +216,8 @@ Create a new user
 
 ```json
 {
-  "success": False,
-  "message": 'Error message',
+  "success": false,
+  "message": "Error message",
   "data": []
 }
 ```
@@ -272,8 +272,8 @@ Edit existing user information
 
 ```json
 {
-  "success": True,
-  "message": '',
+  "success": true,
+  "message": "",
   "data": []
 }
 ```
@@ -286,8 +286,8 @@ Edit existing user information
 
 ```json
 {
-  "success": False,
-  "message": 'Error message',
+  "success": false,
+  "message": "Error message",
   "data": []
 }
 ```
@@ -332,8 +332,8 @@ Remove existing user
 
 ```json
 {
-  "success": True,
-  "message": '',
+  "success": true,
+  "message": "",
   "data": []
 }
 ```
@@ -346,8 +346,8 @@ Remove existing user
 
 ```json
 {
-  "success": False,
-  "message": 'Error message',
+  "success": false,
+  "message": "Error message",
   "data": []
 }
 ```
